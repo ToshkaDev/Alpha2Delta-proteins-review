@@ -1,6 +1,6 @@
 # Alpha2Delta-proteins-review
 
-For molecular docking, AlphaFold models of human Alpha2/Delta-2 to Alpha2/Delta-4 proteins were used. The file **Alpha2Delta1-4_structural_analysis.pdf** shows the structurally superimposed ligand-binding pockets of Alpha2/Delta-1 to Alpha2/Delta-4 proteins. The parameters used for molecular docking are shown below. 
+For molecular docking, AlphaFold models of human Alpha2/Delta-2 to Alpha2/Delta-4 proteins, gabapentinoid drugs, and L-amino acids were used. The file **Alpha2Delta1-4_structural_analysis.pdf** shows the structurally superimposed ligand-binding pockets of Alpha2/Delta-1 to Alpha2/Delta-4 proteins. The parameters used for molecular docking are shown below. 
 
 ### Alpha2/Delta-2.
 
